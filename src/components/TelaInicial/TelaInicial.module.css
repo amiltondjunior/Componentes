@@ -1,0 +1,196 @@
+.root {
+  position: relative;
+  width: 375px;
+  height: 667px;
+  align-items: flex-start;
+  background-color: #f1f1f1;
+  overflow: hidden;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 375px;
+  height: 46px;
+  background-color: #fb0;
+}
+.mesasComandas {
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 109px;
+  top: 13px;
+  width: 158px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle2 {
+  position: absolute;
+  left: 0;
+  top: 602px;
+  width: 375px;
+  height: 65px;
+  background-color: #fff;
+}
+._2639919CartShopping4 {
+  position: absolute;
+  left: 315px;
+  top: 619px;
+  width: 32px;
+  height: 32px;
+  background-image:/* webpackIgnore: true */ url('/assets/_2639919CartShopping4.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._2639919CartShopping3 {
+  position: absolute;
+  left: 221px;
+  top: 619px;
+  width: 32px;
+  height: 32px;
+  background-image:/* webpackIgnore: true */ url('/assets/_2639919CartShopping3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._2639919CartShopping2 {
+  position: absolute;
+  left: 127px;
+  top: 619px;
+  width: 32px;
+  height: 32px;
+  background-image:/* webpackIgnore: true */ url('/assets/_2639919CartShopping2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.comandaOuMesa {
+  color: #ababab;
+  font-size: 18px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 115px;
+  top: 159px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line1 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 32px;
+  top: 210px;
+  width: 316.0016px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #03009f;
+  margin-bottom: -1px;
+  transform: matrix(1, 0.0033, -0.0033, 1, 0, 0);
+}
+.rectangle22 {
+  position: absolute;
+  left: 33px;
+  top: 231px;
+  width: 139px;
+  height: 59px;
+  background-color: #fb0;
+}
+.inserirItem {
+  position: absolute;
+  left: 77px;
+  top: 240px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  text-shadow: 0px 4px 4px #00000040;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rectangle23 {
+  position: absolute;
+  left: 209px;
+  top: 231px;
+  width: 139px;
+  height: 59px;
+  background-color: #fb0;
+}
+.verDetalhes {
+  position: absolute;
+  left: 243px;
+  top: 240px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  text-shadow: 0px 4px 4px #00000040;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock3 {
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._2639919CartShopping1 {
+  position: absolute;
+  left: 33px;
+  top: 619px;
+  width: 32px;
+  height: 32px;
+  background-image:/* webpackIgnore: true */ url('/assets/_2639919CartShopping1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle3 {
+  position: absolute;
+  left: 0;
+  top: 602px;
+  width: 102px;
+  height: 5px;
+  background-color: #fb0;
+}
+._352020ArrowBack1 {
+  position: absolute;
+  left: 8px;
+  top: 7px;
+  width: 32px;
+  height: 32px;
+  background-image:/* webpackIgnore: true */ url('/assets/_352020ArrowBack1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
